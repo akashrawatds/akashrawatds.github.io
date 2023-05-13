@@ -7,6 +7,7 @@
 [AI Chatbot (Intent Detection)](/sample_page)
 <br>
 <img src="images/wait.png?raw=true" width="50" height="50"/>
+<br>
 Built a deep learning based text classification model with highly imbalanced data using multiple text augmentation techniques such as backtranslation, paraphrasing etc.
 
 ---
