@@ -9,6 +9,8 @@
 <img src="images/wait.png?raw=true" width="50" height="50"/>
 <br>
 Built a deep learning based text classification model with highly imbalanced data using multiple text augmentation techniques such as backtranslation, paraphrasing etc.
+<br>
+<a href="#"><img src="https://img.shields.io/badge/Python-white?logo=Python" alt=""></a>
 
 ---
 [Truck Driver Sentiment Analysis](/pdf/sample_presentation.pdf)
