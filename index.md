@@ -1,17 +1,20 @@
-## Portfolio
+# Projects
 
 ---
 
-### Natural Language Processing 
+## Natural Language Processing 
 
 [AI Chatbot (Intent Detection)](/sample_page)
+<br></br>
 <img src="images/wait.png?raw=true" width="50" height="50"/>
 <br></br>
 Built a deep learning based text classification model with highly imbalanced data using multiple text augmentation techniques such as backtranslation, paraphrasing etc.
 
 ---
 [Truck Driver Sentiment Analysis](/pdf/sample_presentation.pdf)
+<br></br>
 <img src="images/wait.png?raw=true" width="50" height="50"/>
+<br></br>
 -	Building an image classification model by creating the data dictionary and classification rules.
 -	Handling the classification and updating the rules and results by front end UI with Flask.
 -	Create dataset over which machine learning model can be trained for classification.
@@ -25,7 +28,9 @@ Built a deep learning based text classification model with highly imbalanced dat
 
 ### Regression Analysis
 [Aircraft Engine Failure Analysis](http://example.com/)
+<br></br>
 <img src="images/wait.png?raw=true" width="50" height="50"/>
+<br></br>
 -	Data Manipulation/Cleaning of txt, XML, json, PDF and .msg files with Pandas/Python.
 -	Analyzing data using descriptive statistics to get the data insights and data distribution.
 -	Automated the data ingestion pipeline to execute data pre-processing steps with
@@ -36,10 +41,12 @@ Built a deep learning based text classification model with highly imbalanced dat
 
 ---
 
-### Computer Vision
+## Computer Vision
 
-[Image Classification]
+### Image Classification
+<br></br>
 <img src="images/wait.png?raw=true" width="50" height="50"/>
+<br></br>
 -	Built an Image classification model to classify images related to flow diagrams and logos.
 -	Developed a web application in python Streamlit to visualize the extracted data from documents.
 -	Developed an entity recognition model to extract the entities related to engg. domain.
@@ -47,20 +54,26 @@ Built a deep learning based text classification model with highly imbalanced dat
 
 
 ---
-[Defect Detection in Sewer Pipelines]
+### Defect Detection in Sewer Pipelines
+<br></br>
 <img src="images/wait.png?raw=true" width="50" height="50"/>
+<br></br>
 - Developed an Object Detection model to detect the specific objects in in video footages.
 -	Built an instance segmentation model to detect the area where the object is present in image.
 
 
 ---
 [Project 3 Title](http://example.com/)
+<br></br>
 <img src="images/wait.png?raw=true" width="50" height="50"/>
+<br></br>
 
 ---
 
-[Project 4 Title]
+### Project 4 Title
+<br></br>
 <img src="images/wait.png?raw=true" width="50" height="50"/>
+<br></br>
 
 ---
 
