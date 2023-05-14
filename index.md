@@ -9,7 +9,7 @@
 <img src="images/wait.png?raw=true" width="50" height="50"/>
 <br>
 Built a deep learning based text classification model with highly imbalanced data using multiple text augmentation techniques such as backtranslation, paraphrasing etc.
-<br>
+<br><br>
 <a href="#"><img src="https://img.shields.io/badge/Python-white?logo=Python" alt=""></a>
 
 ---
@@ -23,12 +23,12 @@ Built a deep learning based text classification model with highly imbalanced dat
 -	Building Spell checker module which corrects the incorrect spellings when image converted to text file with OCR using deep learning.
 -	Deploying the model into production environment using Flask.
 <br>
-<img src="images/sentiment_analysis_cm.jpg?raw=true" width="300" height="300"/>
-<img src="images/sentiment_analysis_wc_pos.jpg?raw=true" width="350" height="250"/>
-<img src="images/sentiment_analysis_wc.jpg?raw=true" width="350" height="250"/>
-<img src="images/sentiment_analysis_1.jpg?raw=true"/>
-<img src="images/sentiment_analysis_2.jpg?raw=true"/>
-<br>
+<img src="images/sentiment_analysis_cm.jpg?raw=true" width="300" height="300" align="middle"/>
+<img src="images/sentiment_analysis_wc_pos.jpg?raw=true" width="300" height="200" align="left"/>
+<img src="images/sentiment_analysis_wc.jpg?raw=true" width="300" height="200" align="right"/>
+<img src="images/sentiment_analysis_1.jpg?raw=true" align="middle"/>
+<img src="images/sentiment_analysis_2.jpg?raw=true" align="middle"/>
+<br><br>
 <a href="#"><img src="https://img.shields.io/badge/Python-white?logo=Python" alt=""></a>
 
 ---
@@ -43,7 +43,7 @@ Built a deep learning based text classification model with highly imbalanced dat
 -	Machine Failure analysis by analyzing the machine failure probabilities using Imbalanced Classification.
 -	Model deployment on an in premise IOT platform using Flask.
 
-<br>
+<br><br>
 <a href="#"><img src="https://img.shields.io/badge/Python-white?logo=Python" alt=""></a>
 
 ---
@@ -57,7 +57,7 @@ Built a deep learning based text classification model with highly imbalanced dat
 -	Developed a web application in python Streamlit to visualize the extracted data from documents.
 -	Developed an entity recognition model to extract the entities related to engg. domain.
 -	Automated form filling activities by converting the non-editable PDF forms to editable PDF forms using computer vision.
-<br>
+<br><br>
 <a href="#"><img src="https://img.shields.io/badge/Python-white?logo=Python" alt=""></a>
 
 
@@ -67,7 +67,7 @@ Built a deep learning based text classification model with highly imbalanced dat
 <img src="images/wait.png?raw=true" width="50" height="50"/>
 - Developed an Object Detection model to detect the specific objects in in video footages.
 -	Built an instance segmentation model to detect the area where the object is present in image.
-<br>
+<br><br>
 <a href="#"><img src="https://img.shields.io/badge/Python-white?logo=Python" alt=""></a>
 
 [Image Data Extraction](/pdf/checkbox_detection.pdf)
@@ -80,13 +80,13 @@ Built a deep learning based text classification model with highly imbalanced dat
 -	Building Spell checker module which corrects the incorrect spellings when image converted to text file with OCR using deep learning.
 -	Deploying the model into production environment using Flask.
 <br>
-<img src="images/sentiment_analysis_cm.jpg?raw=true" width="300" height="300"/>
-<br>
+<img src="images/sentiment_analysis_2.jpg?raw=true" width="300" height="300"/>
+<br><br>
 <a href="#"><img src="https://img.shields.io/badge/Python-white?logo=Python" alt=""></a>
 
 ---
 [Project 3 Title](http://example.com/)
-<br>
+<br><br>
 <img src="images/wait.png?raw=true" width="50" height="50"/>
 
 
@@ -94,15 +94,12 @@ Built a deep learning based text classification model with highly imbalanced dat
 
 # Resources
 
-#### Natural Language Processing
-<img src="images/nlp.png?raw=true" width="50" height="50"/>
+#### Natural Language Processing <img src="images/nlp.png?raw=true" width="50" height="50"/>
 - [Novice To Expert](https://github.com/graykode/nlp-tutorial)
 
-#### Computer Vision
-<img src="images/cv.png?raw=true" width="50" height="50"/>
+#### Computer Vision <img src="images/cv.png?raw=true" width="50" height="50"/>
 
-#### Deep Learning
-<img src="images/deep-learning.png?raw=true" width="50" height="50"/>
+#### Deep Learning <img src="images/deep-learning.png?raw=true" width="50" height="50"/>
 - [MIT Deep Learning](https://www.youtube.com/watch?v=QDX-1M5Nj7s&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
 
 
