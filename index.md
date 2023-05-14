@@ -68,9 +68,10 @@ Built a deep learning based text classification model with highly imbalanced dat
 
 ---
 
-### Project 4 Title
+### Resources
 <br>
-<img src="images/wait.png?raw=true" width="50" height="50"/>
+- Natural Language Processing
+[Novice To Expert](https://github.com/graykode/nlp-tutorial)
 <br>
 
 ---
