@@ -68,11 +68,17 @@ Built a deep learning based text classification model with highly imbalanced dat
 
 ---
 
-### Resources
-<br>
-- Natural Language Processing
-[Novice To Expert](https://github.com/graykode/nlp-tutorial)
-<br>
+# Resources
+
+#### Natural Language Processing
+- [Novice To Expert](https://github.com/graykode/nlp-tutorial)
+
+#### Computer Vision
+
+
+#### Deep Learning
+- [MIT Deep Learning](https://www.youtube.com/watch?v=QDX-1M5Nj7s&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
+
 
 ---
 
