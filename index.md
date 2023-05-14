@@ -15,9 +15,9 @@ Built a deep learning based text classification model with highly imbalanced dat
 ---
 [Truck Driver Sentiment Analysis](/pdf/sample_presentation.pdf)
 <br>
-<img src="images/sentiment_analysis_cm.jpg?raw=true width="150" height="150"/>
-<img src="images/sentiment_analysis_wc.jpg?raw=true width="150" height="150"/>
-<img src="images/sentiment_analysis_wc_pos.jpg?raw=true width="150" height="150"/>
+<img src="images/sentiment_analysis_cm.jpg?raw=true" width="150" height="150"/>
+<img src="images/sentiment_analysis_wc.jpg?raw=true" width="150" height="150"/>
+<img src="images/sentiment_analysis_wc_pos.jpg?raw=true" width="150" height="150"/>
 <img src="images/sentiment_analysis_1.jpg?raw=true"/>
 <img src="images/sentiment_analysis_2.jpg?raw=true"/>
 -	Building an image classification model by creating the data dictionary and classification rules.
