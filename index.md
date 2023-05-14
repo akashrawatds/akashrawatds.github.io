@@ -13,7 +13,7 @@ Built a deep learning based text classification model with highly imbalanced dat
 <a href="#"><img src="https://img.shields.io/badge/Python-white?logo=Python" alt=""></a>
 
 ---
-[Truck Driver Sentiment Analysis](/pdf/sample_presentation.pdf)
+[Truck Driver Sentiment Analysis](/pdf/Truck Driver Sentiment Analysis.pdf)
 <br>
 -	Building an image classification model by creating the data dictionary and classification rules.
 -	Handling the classification and updating the rules and results by front end UI with Flask.
@@ -62,6 +62,21 @@ Built a deep learning based text classification model with highly imbalanced dat
 - Developed an Object Detection model to detect the specific objects in in video footages.
 -	Built an instance segmentation model to detect the area where the object is present in image.
 
+[Image Data Extraction](/pdf/CheckBox Detection.pdf)
+<br>
+-	Building an image classification model by creating the data dictionary and classification rules.
+-	Handling the classification and updating the rules and results by front end UI with Flask.
+-	Create dataset over which machine learning model can be trained for classification.
+-	Classification of single/multiple page documents based on their category with ML and without ML approach.
+-	Extracting entity information from documents using NLTK and Spacy NLP libraries.
+-	Building Spell checker module which corrects the incorrect spellings when image converted to text file with OCR using deep learning.
+-	Deploying the model into production environment using Flask.
+<br>
+<img src="images/sentiment_analysis_cm.jpg?raw=true" width="300" height="300"/>
+<img src="images/sentiment_analysis_wc_pos.jpg?raw=true" width="350" height="250"/>
+<img src="images/sentiment_analysis_wc.jpg?raw=true" width="350" height="250"/>
+<img src="images/sentiment_analysis_1.jpg?raw=true"/>
+<img src="images/sentiment_analysis_2.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
