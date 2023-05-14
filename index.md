@@ -13,7 +13,7 @@ Built a deep learning based text classification model with highly imbalanced dat
 <a href="#"><img src="https://img.shields.io/badge/Python-white?logo=Python" alt=""></a>
 
 ---
-[Truck Driver Sentiment Analysis](/pdf/Truck Driver Sentiment Analysis.pdf)
+[Truck Driver Sentiment Analysis](/pdf/truck_driver_sentiment_analysis.pdf)
 <br>
 -	Building an image classification model by creating the data dictionary and classification rules.
 -	Handling the classification and updating the rules and results by front end UI with Flask.
@@ -62,7 +62,7 @@ Built a deep learning based text classification model with highly imbalanced dat
 - Developed an Object Detection model to detect the specific objects in in video footages.
 -	Built an instance segmentation model to detect the area where the object is present in image.
 
-[Image Data Extraction](/pdf/CheckBox Detection.pdf)
+[Image Data Extraction](/pdf/checkbox_detection.pdf)
 <br>
 -	Building an image classification model by creating the data dictionary and classification rules.
 -	Handling the classification and updating the rules and results by front end UI with Flask.
