@@ -24,8 +24,8 @@ Built a deep learning based text classification model with highly imbalanced dat
 -	Deploying the model into production environment using Flask.
 <br>
 <img src="images/sentiment_analysis_cm.jpg?raw=true" width="300" height="300" align="middle"/>
-<img src="images/sentiment_analysis_wc_pos.jpg?raw=true" width="300" height="200" align="left"/>
-<img src="images/sentiment_analysis_wc.jpg?raw=true" width="300" height="200" align="right"/>
+<img src="images/sentiment_analysis_wc_pos.jpg?raw=true" width="200" height="100" align="left"/>
+<img src="images/sentiment_analysis_wc.jpg?raw=true" width="200" height="100" align="right"/>
 <img src="images/sentiment_analysis_1.jpg?raw=true" align="middle"/>
 <img src="images/sentiment_analysis_2.jpg?raw=true" align="middle"/>
 <br><br>
@@ -94,12 +94,12 @@ Built a deep learning based text classification model with highly imbalanced dat
 
 # Resources
 
-#### Natural Language Processing <img src="images/nlp.png?raw=true" width="50" height="50"/>
+#### Natural Language Processing <img src="images/nlp.png?raw=true" width="30" height="30"/>
 - [Novice To Expert](https://github.com/graykode/nlp-tutorial)
 
-#### Computer Vision <img src="images/cv.png?raw=true" width="50" height="50"/>
+#### Computer Vision <img src="images/cv.png?raw=true" width="30" height="30"/>
 
-#### Deep Learning <img src="images/deep-learning.png?raw=true" width="50" height="50"/>
+#### Deep Learning <img src="images/deep-learning.png?raw=true" width="30" height="30"/>
 - [MIT Deep Learning](https://www.youtube.com/watch?v=QDX-1M5Nj7s&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
 
 
