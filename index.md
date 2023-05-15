@@ -11,7 +11,7 @@ Built a deep learning based text classification model with highly imbalanced dat
 <a href="#"><img src="https://img.shields.io/badge/PyTorch-white?logo=pytorch" alt=""></a>
 <a href="#"><img src="https://img.shields.io/badge/sklearn-white?logo=scikit-learn" alt=""></a>
 <a href="#"><img src="https://img.shields.io/badge/pandas-white?logo=pandas" alt=""></a>
-<a href="#"><img src="[https://img.shields.io/badge/pandas-white?logo=pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)" alt=""></a>
+<a href="#"><img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt=""></a>
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 <a href="#"><img src="https://img.shields.io/badge/AWS-white?logo=aws" alt=""></a>
 
