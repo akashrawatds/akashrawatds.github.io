@@ -82,7 +82,7 @@ Developed an image classification model by creating the dataset dictionary and c
 Sentiment analysis model is developed to capture the experiences of the driver after each fleet. Indicator of their sentiments can be utilized to predict whether they will leave the job or not. This information can be transformed further for fleet and vehicle recommendation.
 <br><br>
 <div style="display: flex; justify-content: center;">
-  <img src="images/sentiment_analysis_cm.jpg?raw=true" width="350" height="350" align="middle"/>
+  <img src="images/sentiment_analysis_cm.jpg?raw=true" width="350" height="350"/>
 </div>
 <br><br>
 <img src="images/sentiment_analysis_wc_pos.jpg?raw=true" width="250" height="130" align="left"/>
