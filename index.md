@@ -2,13 +2,17 @@
 
 ---
 
-## Natural Language Processing 
-
 [AI Chatbot (Intent Detection)](/sample_page)
 <br>
 Built a deep learning based text classification model with highly imbalanced data using multiple text augmentation techniques such as backtranslation, paraphrasing etc.
 <br><br><br>
 <a href="#"><img src="https://img.shields.io/badge/Python-white?logo=Python" alt=""></a>
+<a href="#"><img src="https://img.shields.io/badge/Jupyter-white?logo=Jupyter" alt=""></a>
+<a href="#"><img src="https://img.shields.io/badge/PyTorch-white?logo=pytorch" alt=""></a>
+<a href="#"><img src="https://img.shields.io/badge/sklearn-white?logo=scikit-learn" alt=""></a>
+<a href="#"><img src="https://img.shields.io/badge/pandas-white?logo=pandas" alt=""></a>
+<a href="#"><img src="https://img.shields.io/badge/AWS-white?logo=aws" alt=""></a>
+
 
 ---
 [Truck Driver Sentiment Analysis](/pdf/truck_driver_sentiment_analysis.pdf)
@@ -25,8 +29,6 @@ Building an image classification model by creating the data dictionary and class
 
 ---
 
-### Regression Analysis
-<br>
 #### Aircraft Engine Failure Analysis
 <br>
 Data Manipulation/Cleaning of txt, XML, json, PDF and .msg files with Pandas/Python. Analyzing data using descriptive statistics to get the data insights and data distribution. Automated the data ingestion pipeline to execute data pre-processing steps with configurable rules which can be handled from UI using Flask. Machine Failure analysis by analyzing the machine failure probabilities using Imbalanced Classification. Model deployment on an in premise IOT platform using Flask.
@@ -35,8 +37,6 @@ Data Manipulation/Cleaning of txt, XML, json, PDF and .msg files with Pandas/Pyt
 <a href="#"><img src="https://img.shields.io/badge/Python-white?logo=Python" alt=""></a>
 
 ---
-
-## Computer Vision
 
 ### Image Classification
 <br>
