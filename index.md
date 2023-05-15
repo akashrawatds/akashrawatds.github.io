@@ -27,7 +27,7 @@ Developed a multilingual text classification model with highly imbalanced data u
 ### Flow Chart Image Classification
 Image classification model to classify scanned images with flow diagrams and others. A Streamlit based web application is also developed in python for users to visualize the results from documents.
 <br><br>
-<img src="images/flowchart.gif?raw=true" width="500" height="300" align="middle"/>
+<img src="images/flowchart-fig2.gif?raw=true" width="500" height="300" align="middle"/>
 <br><br>
 <a href="#"><img src="https://img.shields.io/badge/Python-white?logo=Python" alt=""></a>
 <a href="#"><img src="https://img.shields.io/badge/opencv-%23white.svg?logo=opencv&logoColor=white" alt=""></a>
@@ -97,7 +97,7 @@ Sentiment analysis model is developed to capture the experiences of the driver a
 ### Aircraft Engine Failure Analysis
 Data analysis using descriptive statistics to get the data insights and data distribution. Machine Failure analysis by analyzing the feature level performace and natural environmental element's affect on aircraft engine.
 <br><br>
-<img src="images/sentiment_analysis_cm.jpg?raw=true" width="350" height="350" align="middle"/>
+<img src="images/machine_failure.png?raw=true" width="350" height="350" align="middle"/>
 <br><br>
 <a href="#"><img src="https://img.shields.io/badge/Python-white?logo=Python" alt=""></a>
 <a href="#"><img src="https://img.shields.io/badge/pandas-%23150458.svg?logo=pandas&logoColor=white" alt=""></a>
