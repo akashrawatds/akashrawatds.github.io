@@ -8,12 +8,12 @@ Built a deep learning based text classification model with highly imbalanced dat
 <br><br><br>
 <a href="#"><img src="https://img.shields.io/badge/Python-white?logo=Python" alt=""></a>
 <a href="#"><img src="https://img.shields.io/badge/Jupyter-white?logo=Jupyter" alt=""></a>
-<a href="#"><img src="https://img.shields.io/badge/PyTorch-white?logo=pytorch" alt=""></a>
-<a href="#"><img src="https://img.shields.io/badge/sklearn-white?logo=scikit-learn" alt=""></a>
-<a href="#"><img src="https://img.shields.io/badge/pandas-white?logo=pandas" alt=""></a>
 <a href="#"><img src="https://img.shields.io/badge/pandas-%23150458.svg?logo=pandas&logoColor=white" alt=""></a>
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-<a href="#"><img src="https://img.shields.io/badge/AWS-white?logo=aws" alt=""></a>
+<a href="#"><img src="https://img.shields.io/badge/sklearn-white?logo=scikit-learn" alt=""></a>
+<a href="#"><img src="https://img.shields.io/badge/Transformers-white?logo=transformer" alt=""></a>
+<a href="#"><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white" alt=""></a>
+<a href="#"><img src="https://img.shields.io/badge/github-121013?logo=github&logoColor=white" alt=""></a>
+<a href="#"><img src="https://img.shields.io/badge/jenkins-%232C5263.svg?logo=jenkins&logoColor=white" alt=""></a>
 
 
 ---
@@ -21,13 +21,19 @@ Built a deep learning based text classification model with highly imbalanced dat
 <br>
 Building an image classification model by creating the data dictionary and classification rules. Handling the classification and updating the rules and results by front end UI with Flask. Create dataset over which machine learning model can be trained for classification. Classification of single/multiple page documents based on their category with ML and without ML approach. Extracting entity information from documents using NLTK and Spacy NLP libraries. Building Spell checker module which corrects the incorrect spellings when image converted to text file with OCR using deep learning. Deploying the model into production environment using Flask.
 <br>
-<img src="images/sentiment_analysis_cm.jpg?raw=true" width="200" height="200" align="middle"/>
+<img src="images/sentiment_analysis_cm.jpg?raw=true" width="200" height="200" align="left"/>
 <img src="images/sentiment_analysis_wc_pos.jpg?raw=true" width="200" height="100" align="left"/>
 <img src="images/sentiment_analysis_wc.jpg?raw=true" width="200" height="100" align="right"/>
 <img src="images/sentiment_analysis_1.jpg?raw=true" align="middle"/>
 <img src="images/sentiment_analysis_2.jpg?raw=true" align="middle"/>
 <br><br>
 <a href="#"><img src="https://img.shields.io/badge/Python-white?logo=Python" alt=""></a>
+<a href="#"><img src="https://img.shields.io/badge/Jupyter-white?logo=Jupyter" alt=""></a>
+<a href="#"><img src="https://img.shields.io/badge/pandas-%23150458.svg?logo=pandas&logoColor=white" alt=""></a>
+<a href="#"><img src="https://img.shields.io/badge/sklearn-white?logo=scikit-learn" alt=""></a>
+<a href="#"><img src="https://img.shields.io/badge/flask-%23000.svg?logo=flask&logoColor=white" alt=""></a>
+<a href="#"><img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?logo=Matplotlib&logoColor=black" alt=""></a>
+
 
 ---
 
@@ -37,6 +43,12 @@ Data Manipulation/Cleaning of txt, XML, json, PDF and .msg files with Pandas/Pyt
 
 <br><br>
 <a href="#"><img src="https://img.shields.io/badge/Python-white?logo=Python" alt=""></a>
+<a href="#"><img src="https://img.shields.io/badge/Jupyter-white?logo=Jupyter" alt=""></a>
+<a href="#"><img src="https://img.shields.io/badge/pandas-%23150458.svg?logo=pandas&logoColor=white" alt=""></a>
+<a href="#"><img src="https://img.shields.io/badge/sklearn-white?logo=scikit-learn" alt=""></a>
+<a href="#"><img src="https://img.shields.io/badge/flask-%23000.svg?logo=flask&logoColor=white" alt=""></a>
+<a href="#"><img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?logo=Matplotlib&logoColor=black" alt=""></a>
+
 
 ---
 
@@ -47,6 +59,12 @@ Built an Image classification model to classify images related to flow diagrams 
 
 <br><br>
 <a href="#"><img src="https://img.shields.io/badge/Python-white?logo=Python" alt=""></a>
+<a href="#"><img src="https://img.shields.io/badge/Jupyter-white?logo=Jupyter" alt=""></a>
+<a href="#"><img src="https://img.shields.io/badge/opencv-%23white.svg?logo=opencv&logoColor=white" alt=""></a>
+<a href="#"><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=TensorFlow&logoColor=white" alt=""></a>
+<a href="#"><img src="https://img.shields.io/badge/Streamlit?logo=streamlit&logoColor=white" alt=""></a>
+<a href="#"><img src="https://img.shields.io/badge/azure-%230072C6.svg?logo=microsoftazure&logoColor=white" alt=""></a>
+
 
 
 ---
@@ -57,6 +75,11 @@ Built an instance segmentation model to detect the area where the object is pres
 
 <br><br>
 <a href="#"><img src="https://img.shields.io/badge/Python-white?logo=Python" alt=""></a>
+<a href="#"><img src="https://img.shields.io/badge/Jupyter-white?logo=Jupyter" alt=""></a>
+<a href="#"><img src="https://img.shields.io/badge/opencv-%23white.svg?logo=opencv&logoColor=white" alt=""></a>
+<a href="#"><img src="https://img.shields.io/badge/Transformers-white?logo=transformer" alt=""></a>
+<a href="#"><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=TensorFlow&logoColor=white" alt=""></a>
+<a href="#"><img src="https://img.shields.io/badge/azure-%230072C6.svg?logo=microsoftazure&logoColor=white" alt=""></a>
 
 [Image Data Extraction](/pdf/checkbox_detection.pdf)
 <br>
@@ -65,6 +88,9 @@ Building an image classification model by creating the data dictionary and class
 <img src="images/sentiment_analysis_2.jpg?raw=true" width="300" height="300"/>
 <br><br>
 <a href="#"><img src="https://img.shields.io/badge/Python-white?logo=Python" alt=""></a>
+<a href="#"><img src="https://img.shields.io/badge/Jupyter-white?logo=Jupyter" alt=""></a>
+<a href="#"><img src="https://img.shields.io/badge/opencv-%23white.svg?logo=opencv&logoColor=white" alt=""></a>
+<a href="#"><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=TensorFlow&logoColor=white" alt=""></a>
 
 ---
 [Project 3 Title](http://example.com/)
