@@ -3,7 +3,7 @@
 ### AI Chatbot (Intent Detection)
 Customer request should be directed to concerned department. Chatbot is developed using AWS Lex with pre-defined intents i.e. Order Status, Stock Availability, Quotation, Document and Support. Entire pipeline from data collection to model training is develepoed in AWS using S3, Step Functions, Eventbridge, Lex and Cloudwatch.
 <br>
-<img src="images/Intent_detection.jpg?raw=true" align="middle"/>
+<img src="images/Intent_detection.jpg?raw=true" width="500" height="300" align="middle"/>
 <br><br>
 <a href="#"><img src="https://img.shields.io/badge/Python-white?logo=Python" alt=""></a>
 <a href="#"><img src="https://img.shields.io/badge/Jupyter-white?logo=Jupyter" alt=""></a>
