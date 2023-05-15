@@ -1,9 +1,6 @@
 # Projects
 
----
-
 ### AI Chatbot (Intent Detection)
-<br><br>
 Built a deep learning based text classification model with highly imbalanced data using multiple text augmentation techniques such as backtranslation, paraphrasing etc.
 <br><br>
 <a href="#"><img src="https://img.shields.io/badge/Python-white?logo=Python" alt=""></a>
