@@ -27,7 +27,7 @@ Developed a multilingual text classification model with highly imbalanced data u
 ### Flow Chart Image Classification
 Image classification model to classify scanned images with flow diagrams and others. A Streamlit based web application is also developed in python for users to visualize the results from documents.
 <br><br>
-<img src="images/flowchart-fig2.gif?raw=true" align="middle"/>
+<img src="images/flowchart.gif?raw=true" align="middle"/>
 <br><br>
 <a href="#"><img src="https://img.shields.io/badge/Python-white?logo=Python" alt=""></a>
 <a href="#"><img src="https://img.shields.io/badge/opencv-%23white.svg?logo=opencv&logoColor=white" alt=""></a>
@@ -81,7 +81,9 @@ Developed an image classification model by creating the dataset dictionary and c
 ### [Truck Driver Sentiment Analysis](/pdf/truck_driver_sentiment_analysis.pdf)
 Sentiment analysis model is developed to capture the experiences of the driver after each fleet. Indicator of their sentiments can be utilized to predict whether they will leave the job or not. This information can be transformed further for fleet and vehicle recommendation.
 <br><br>
-<img src="images/sentiment_analysis_cm.jpg?raw=true" width="350" height="350" align="middle"/>
+<div style="display: flex; justify-content: center;">
+  <img src="images/sentiment_analysis_cm.jpg?raw=true" width="350" height="350" align="middle"/>
+</div>
 <br><br>
 <img src="images/sentiment_analysis_wc_pos.jpg?raw=true" width="250" height="130" align="left"/>
 <img src="images/sentiment_analysis_wc.jpg?raw=true" width="250" height="130" align="right"/>
