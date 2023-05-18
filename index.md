@@ -111,13 +111,16 @@ Data analysis using descriptive statistics to get the data insights and data dis
 # Resources
 
 #### Natural Language Processing <img src="images/nlp.png?raw=true" width="30" height="30" align="right"/>
-- [Novice To Expert](https://github.com/graykode/nlp-tutorial)
+- [Novice To Expert](https://pub.towardsai.net/from-novice-to-expert-a-comprehensive-step-by-step-study-plan-for-mastering-llms-dc9feb60ecc4)
+- [NLP Deep-Dive](https://github.com/graykode/nlp-tutorial)
+- [Awesome LLM](https://github.com/Hannibal046/Awesome-LLM)
 
 #### Computer Vision <img src="images/cv.png?raw=true" width="30" height="30" align="right"/>
 - [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
 
 #### Deep Learning <img src="images/deep-learning.png?raw=true" width="30" height="30" align="right"/>
 - [MIT Deep Learning](https://www.youtube.com/watch?v=QDX-1M5Nj7s&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
+- [Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
 
 ---
 
