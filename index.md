@@ -3,7 +3,7 @@
 ### AI Chatbot (Intent Detection)
 Customer request should be directed to concerned department. Chatbot is developed using AWS Lex with pre-defined intents i.e. Order Status, Stock Availability, Quotation, Document and Support. Entire pipeline from data collection to model training is develepoed in AWS using S3, Step Functions, Eventbridge, Lex and Cloudwatch.
 <br><br>
-<img src="images/Intent_detection.jpg?raw=true" width="500" height="300" align="middle"/>
+<img src="images/proj_img/nlp/Intent_detection.jpg?raw=true" width="500" height="300" align="middle"/>
 <br><br>
 <a href="#"><img src="https://img.shields.io/badge/Python-white?logo=Python" alt=""></a>
 <a href="#"><img src="https://img.shields.io/badge/pandas-%23150458.svg?logo=pandas&logoColor=white" alt=""></a>
@@ -27,7 +27,7 @@ Developed a multilingual text classification model with highly imbalanced data u
 ### Flow Chart Image Classification
 Image classification model to classify scanned images with flow diagrams and others. A Streamlit based web application is also developed in python for users to visualize the results from documents.
 <br><br>
-<img src="images/flowchart.gif?raw=true" align="middle"/>
+<img src="images/proj_img/cv/flowchart.gif?raw=true" align="middle"/>
 <br><br>
 <a href="#"><img src="https://img.shields.io/badge/Python-white?logo=Python" alt=""></a>
 <a href="#"><img src="https://img.shields.io/badge/opencv-%23white.svg?logo=opencv&logoColor=white" alt=""></a>
@@ -38,7 +38,7 @@ Image classification model to classify scanned images with flow diagrams and oth
 ### Digital Form Conversion
 Automated form filling activities by converting the non-editable PDF forms to editable PDF forms using computer vision. Editable fields were added to scanned PDF forms to fill the information digitally. During audits and seeking approvals from Govt. entities, form generation saved weeks and data validation made easier.
 <br><br>
-<img src="images/Form.jpg?raw=true" align="middle"/>
+<img src="images/proj_img/cv/Form.jpg?raw=true" align="middle"/>
 <br><br>
 <a href="#"><img src="https://img.shields.io/badge/Python-white?logo=Python" alt=""></a>
 <a href="#"><img src="https://img.shields.io/badge/opencv-%23white.svg?logo=opencv&logoColor=white" alt=""></a>
@@ -48,7 +48,7 @@ Automated form filling activities by converting the non-editable PDF forms to ed
 ### Information Extraction
 Data extraction for 20+ vendors from utility scanned bills is a cumbersome job when the template or format changes across vendors. Azure Form Recognizer is utilized to identify the template and extract the information in structured JSON.
 <br><br>
-<img src="images/afr-overview.png?raw=true" align="middle"/>
+<img src="images/proj_img/cv/afr-overview.png?raw=true" align="middle"/>
 <br><br>
 <a href="#"><img src="https://img.shields.io/badge/Python-white?logo=Python" alt=""></a>
 <a href="#"><img src="https://img.shields.io/badge/azure-%230072C6.svg?logo=microsoftazure&logoColor=white" alt=""></a>
@@ -57,7 +57,7 @@ Data extraction for 20+ vendors from utility scanned bills is a cumbersome job w
 ### Defect Detection in Sewer Pipelines
 Inspection of cylindrical cemented sewer pipelines is transformed into an object detection problem to save 100s of man-hours. Data labelling, validation, model training is achieved using Microsoft Azure. Later instance segmentation model was also trained to detect the dimensions/area of defect in image.
 <br><br>
-<img src="images/sewer.jpg?raw=true" align="middle"/>
+<img src="images/proj_img/cv/sewer.jpg?raw=true" align="middle"/>
 <br><br>
 <a href="#"><img src="https://img.shields.io/badge/Python-white?logo=Python" alt=""></a>
 <a href="#"><img src="https://img.shields.io/badge/opencv-%23white.svg?logo=opencv&logoColor=white" alt=""></a>
@@ -69,7 +69,7 @@ Inspection of cylindrical cemented sewer pipelines is transformed into an object
 ### [Document Classification and Data Extraction](/pdf/checkbox_detection.pdf)
 Developed an image classification model by creating the dataset dictionary and classification rules. Handling the classification and updating the rules and results by front end UI with Flask. Extracting entity information from documents using NLTK and Spacy NLP libraries.
 <br><br>
-<img src="images/ner.png?raw=true" align="middle"/>
+<img src="images/proj_img/nlp/ner.png?raw=true" align="middle"/>
 <br><br>
 <a href="#"><img src="https://img.shields.io/badge/Python-white?logo=Python" alt=""></a>
 <a href="#"><img src="https://img.shields.io/badge/sklearn-white?logo=scikit-learn" alt=""></a>
@@ -82,13 +82,13 @@ Developed an image classification model by creating the dataset dictionary and c
 Sentiment analysis model is developed to capture the experiences of the driver after each fleet. Indicator of their sentiments can be utilized to predict whether they will leave the job or not. This information can be transformed further for fleet and vehicle recommendation.
 <br><br>
 <div style="display: flex; justify-content: center;">
-  <img src="images/sentiment_analysis_cm.jpg?raw=true" width="350" height="350"/>
+  <img src="images/proj_img/nlp/sentiment_analysis_cm.jpg?raw=true" width="350" height="350"/>
 </div>
 <br><br>
-<img src="images/sentiment_analysis_wc_pos.jpg?raw=true" width="250" height="130" align="left"/>
-<img src="images/sentiment_analysis_wc.jpg?raw=true" width="250" height="130" align="right"/>
-<img src="images/sentiment_analysis_1.jpg?raw=true" align="middle"/>
-<img src="images/sentiment_analysis_2.jpg?raw=true" align="middle"/>
+<img src="images/proj_img/nlp/sentiment_analysis_wc_pos.jpg?raw=true" width="250" height="130" align="left"/>
+<img src="images/proj_img/nlp/sentiment_analysis_wc.jpg?raw=true" width="250" height="130" align="right"/>
+<img src="images/proj_img/nlp/sentiment_analysis_1.jpg?raw=true" align="middle"/>
+<img src="images/proj_img/nlp/sentiment_analysis_2.jpg?raw=true" align="middle"/>
 <br><br>
 <a href="#"><img src="https://img.shields.io/badge/Python-white?logo=Python" alt=""></a>
 <a href="#"><img src="https://img.shields.io/badge/sklearn-white?logo=scikit-learn" alt=""></a>
@@ -99,7 +99,7 @@ Sentiment analysis model is developed to capture the experiences of the driver a
 ### Aircraft Engine Failure Analysis
 Data analysis using descriptive statistics to get the data insights and data distribution. Machine Failure analysis by analyzing the feature level performace and natural environmental element's affect on aircraft engine.
 <br><br>
-<img src="images/machine_failure.png?raw=true" align="middle"/>
+<img src="images/proj_img/regression/machine_failure.png?raw=true" align="middle"/>
 <br><br>
 <a href="#"><img src="https://img.shields.io/badge/Python-white?logo=Python" alt=""></a>
 <a href="#"><img src="https://img.shields.io/badge/pandas-%23150458.svg?logo=pandas&logoColor=white" alt=""></a>
